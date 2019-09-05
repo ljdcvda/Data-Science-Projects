@@ -10,8 +10,8 @@ for project in listdir():
         print(project)
         for notebook in listdir(project):
             if notebook.endswith('.ipynb'):
-                url1=join(base_url_git, project, notebook)
-                url2=join(base_url_viewer, project, notebook)
+                url1=join(base_url_git, project, notebook).replace('\\','/')
+                url2=join(base_url_viewer, project, notebook).replace('\\','/')
                 line = "* [{0} Project]({1}) [(mirror link)]({2})".format(project.capitalize(), url1, url2)
                 markdown= markdown + (line+'\n')
 
