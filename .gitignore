@@ -4,3 +4,4 @@
 __pycache__
 temp.py
 game_log.csv
+*.db
