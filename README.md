@@ -1,47 +1,24 @@
-# Machine Learning
-* [Bike Project](https://github.com/ljdcvda/data-science-projects/blob/master/bike/bike.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/bike/bike.ipynb)
-    * Machine learning, visualization, feature engineering, linear regression, decision tree and random forest using scikitlearn
-* [Car_prices Project](https://github.com/ljdcvda/data-science-projects/blob/master/car_prices/car_prices.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/car_prices/car_prices.ipynb)
-    * Machine learning, k nearest neighbors, data cleaning using scikit learn
-* [Digits Project](https://github.com/ljdcvda/data-science-projects/blob/master/digits/digits.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/digits/digits.ipynb)
-    * Machine learning, image classification, neural network, using scikitlearn and pandas
-* [House_prices Project](https://github.com/ljdcvda/data-science-projects/blob/master/house_prices/house_prices.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/house_prices/house_prices.ipynb)
-    * Data cleaning, feature engineering, feature selection, machine learning, linear regression, cross validation using pandas and scikitlearn
-* [Titanic Project](https://github.com/ljdcvda/data-science-projects/blob/master/titanic/titanic.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/titanic/titanic.ipynb)
-    * Machine learning, feature engineering, data cleaning, hyperparameter optimization, kaggle submission
-* [Loans Project](https://github.com/ljdcvda/data-science-projects/blob/master/loans/loan_project.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/loans/loan_project.ipynb)
-    *  Data cleaning, feature engineering, feature selection, machine learning, logistic regression, random forest, cross validation, class imbalance and metric selection, using pandas and scikitlearn
+# Highlighted Projects
+## Machine Learning
+* [Classifying digits using nearest neighbors and neural networks](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/digits/digits.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/digits/digits.ipynb)
+* [Classifying digits using a convolutional neural network](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/digits2/digits2.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/digits2/digits2.ipynb)
+* [Predicting bike rentals with linear regression, decision trees, and random forest algorithms](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/bike/bike.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/bike/bike.ipynb)
+* [Predicting car prices using k-nearest neighbors algorithm](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/car_prices/car_prices.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/car_prices/car_prices.ipynb)
+* [Predicting house prices using linear regression](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/house_prices/house_prices.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/house_prices/house_prices.ipynb)
+* [Winning Jeopardy using statistical analysis](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/jeopardy/jeopardy.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/jeopardy/jeopardy.ipynb)
+* [Predicting loan outcomes using logistic regression and random forest](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/loans/loans.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/loans/loans.ipynb)
+* [Filtering spam emails using a multinomial Naive Bayes algorithm](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/spam/spam.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/spam/spam.ipynb)
+* [Predicting the stock market using Linear Regression](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/stock/stock.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/stock/stock.ipynb)
 
-# SQL
-* [Baseball Project](https://github.com/ljdcvda/data-science-projects/blob/master/baseball/baseball.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/baseball/baseball.ipynb)
-    * Database creation using sqlite
-* [Cia Project](https://github.com/ljdcvda/data-science-projects/blob/master/cia/cia.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/cia/cia.ipynb)
-    * Data exploration and analysis using pandas and sqlite
-* [Music Project](https://github.com/ljdcvda/data-science-projects/blob/master/music/music.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/music/music.ipynb)
-    * Data analysis and visualization using pandas, sqlite, and pyplot
-# Data exploration / analysis / visualization
-* [App_store Project](https://github.com/ljdcvda/data-science-projects/blob/master/app_store/app_store.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/app_store/app_store.ipynb)
-    * Data Exploration using pandas
-* [Car_sales Project](https://github.com/ljdcvda/data-science-projects/blob/master/car_sales/car_sales.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/car_sales/car_sales.ipynb)
-    * Data Analysis using pandas
-* [Advert Project](https://github.com/ljdcvda/data-science-projects/blob/master/advert/advert.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/advert/advert.ipynb)
-    * Data Exploration using pandas, statistics, visualization
-* [Employee Project](https://github.com/ljdcvda/data-science-projects/blob/master/employee/employee.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/employee/employee.ipynb)
-    * Data aggregation, exploration, analysis, visualization using pandas
-* [Fandango Project](https://github.com/ljdcvda/data-science-projects/blob/master/fandango/fandango.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/fandango/fandango.ipynb)
-    * Data analysis and visualization using pandas and seaborn
-* [Gender_gap Project](https://github.com/ljdcvda/data-science-projects/blob/master/gender_gap/gender_gap.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/gender_gap/gender_gap.ipynb)
-    * Data visualization using pyplot, pandas
-* [Hacker Project](https://github.com/ljdcvda/data-science-projects/blob/master/hacker/hacker.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/hacker/hacker.ipynb)
-    * Data analysis using datetime
-* [Jeopardy Project](https://github.com/ljdcvda/data-science-projects/blob/master/jeopardy/Basics.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/jeopardy/Basics.ipynb)
-    * Data analysis using statistics and pandas
-* [Lottery Project](https://github.com/ljdcvda/data-science-projects/blob/master/lottery/lottery.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/lottery/lottery.ipynb)
-    * Data analysis using probability and statistics
-* [Major Project](https://github.com/ljdcvda/data-science-projects/blob/master/major/major.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/major/major.ipynb)
-    * Data analysis and visualization using pandas and pyplot
-* [Nyc_hs Project](https://github.com/ljdcvda/data-science-projects/blob/master/nyc_hs/Schools.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/nyc_hs/Schools.ipynb)
-    * Data analysis and visualization using pandas, pyplot, and basemap
-* [Star_wars Project](https://github.com/ljdcvda/data-science-projects/blob/master/star_wars/star_wars.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/star_wars/star_wars.ipynb)
-    * Data cleaning, analysis, and visualization using pandas and pyplot
+## SQL
+* [Answering music store business questions using SQL queries](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/music/music.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/music/music.ipynb)
+
+## Data cleaning, analysis, and visualization
+* [Analyzing ebay car ads data using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/car_sales/car_sales.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/car_sales/car_sales.ipynb)
+* [Analyzing employee exit survey data using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/employee/employee.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/employee/employee.ipynb)
+* [Investigating Fandango movie ratings inflation using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/fandango/fandango.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/fandango/fandango.ipynb)
+* [Visualizing the gender gap in STEM degrees using matplotlib](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/gender_gap/gender_gap.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/gender_gap/gender_gap.ipynb)
+* [Analyzing employment outcomes using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/major/major.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/major/major.ipynb)
+* [Identifying SAT score factors using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/nyc_hs/Schools.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/nyc_hs/Schools.ipynb)
+* [Analyzing Star Wars survey data using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/star_wars/star_wars.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/star_wars/star_wars.ipynb)
 
