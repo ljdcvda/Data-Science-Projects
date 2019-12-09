@@ -2,13 +2,13 @@
 from os import listdir
 from os.path import isfile, join, isdir
 
-base_url_git = "https://github.com/ljdcvda/data-science-projects/blob/master/"
-base_url_viewer = "https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/"
+where = 'highlights/'
+base_url_git = "https://github.com/ljdcvda/data-science-projects/blob/master/highlights/"
+base_url_viewer = "https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/"
 markdown = """"""
-for project in listdir():
-    if isdir(project):
-        print(project)
-        for notebook in listdir(project):
+for project in listdir(where):
+    if isdir(join(where,project)):
+        for notebook in listdir(join(where,project)):
             if notebook.endswith('.ipynb'):
                 url1=join(base_url_git, project, notebook).replace('\\','/')
                 url2=join(base_url_viewer, project, notebook).replace('\\','/')
