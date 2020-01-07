@@ -22,3 +22,7 @@
 * [Identifying SAT score factors using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/nyc_hs/Schools.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/nyc_hs/Schools.ipynb)
 * [Analyzing Star Wars survey data using pandas](https://github.com/ljdcvda/data-science-projects/blob/master/highlights/star_wars/star_wars.ipynb) [(mirror link)](https://nbviewer.jupyter.org/github/ljdcvda/data-science-projects/blob/master/highlights/star_wars/star_wars.ipynb)
 
+# Fun stuff in Progress
+* [Generating Painted Fantasy Portraits using Adversarial CNNs](https://github.com/ljdcvda/data-science-projects/blob/master/other/portrait/portrait.ipynb)
+
+
