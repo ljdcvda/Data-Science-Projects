@@ -6,3 +6,4 @@ temp.py
 game_log.csv
 *.db
 *.h5
+*.xhtml
